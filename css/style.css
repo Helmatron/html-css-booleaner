@@ -1,6 +1,20 @@
-.page-header {
-background: url(../img/pattern.png);
+.page-layout {
+   margin-left: 10%;
+   margin-right: 10%;
+}
 
+.page-header {
+    background: url(../img/pattern.png);
+}
+
+h1 {
+    margin: 0px;
+    margin-top: 30px;
+}
+
+.subtitle {
+    margin: 0px;
+    margin-bottom: 25px;
 }
 
 span {
