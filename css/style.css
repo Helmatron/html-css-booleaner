@@ -21,11 +21,17 @@ h1 {
 
 .subtitle {
     margin: 0px;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 span {
     color: rgb(90, 171, 255);
+}
+
+.list-style {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 15px;
 }
 
 .footer-style {
