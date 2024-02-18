@@ -34,6 +34,31 @@ span {
     padding-left: 15px;
 }
 
+table {
+   table-layout: fixed;
+   width: 100%;
+}
+th {
+    border: 1px solid white;
+    color: white;
+    background-color: rgb(127, 166, 251);
+    text-align: left;
+}
+
+td {
+    background-color: rgb(223, 229, 242);
+    border: 1px solid white;
+    color: black
+}
+
+.tr-size {
+    width: 25%;
+}
+
+.td-bgw {
+    background-color: white;
+}
+
 .footer-style {
     background-color: rgb(49, 58, 107);
     text-align: center;
